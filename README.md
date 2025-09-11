@@ -30,13 +30,6 @@ Sou desenvolvedora **FullStack** apaixonada por tecnologia e sempre explorando n
 
 ---
 
-## 🐍 Contribuições
-<p align="center">
-  <img src="https://github.com/pamella-binotto/pamella-binotto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🌐 Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/pamellabinotto" target="_blank">
@@ -51,4 +44,5 @@ Sou desenvolvedora **FullStack** apaixonada por tecnologia e sempre explorando n
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000080&height=100&section=footer" />
 </p>
+
 
