@@ -24,15 +24,15 @@ Sou desenvolvedora **FullStack** apaixonada por tecnologia e sempre explorando n
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamellabinotto&show_icons=true&theme=blueberry&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamellabinotto&theme=blueberry&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pamella-binotto&show_icons=true&theme=blueberry&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamella-binotto&theme=blueberry&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 🐍 Contribuições
 <p align="center">
-  <img src="https://github.com/pamellabinotto/pamellabinotto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/pamella-binotto/pamella-binotto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -51,3 +51,4 @@ Sou desenvolvedora **FullStack** apaixonada por tecnologia e sempre explorando n
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000080&height=100&section=footer" />
 </p>
+
