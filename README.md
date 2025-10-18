@@ -4,7 +4,7 @@
 
 ---
 
-### 🩵 Sobre mim  
+### Sobre mim  
 Sou uma desenvolvedora **Full Stack Jr.** apaixonada por transformar ideias em soluções funcionais e intuitivas.  
 Atuo com **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, Docker, Prisma** e **PostgreSQL**, além de **testes automatizados com Jest**.  
 Tenho uma visão de negócio sólida, vinda da minha experiência como empreendedora e gestora — o que me ajuda a unir **estratégia, tecnologia e resultado real**.  
@@ -17,7 +17,7 @@ Atualmente, busco oportunidades para evoluir profissionalmente, colaborando em p
 
 <div align="center">
 
-#### 🩵 Front-end  
+#### 🖥️ Front-end  
 <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>React</code> • <code>Redux</code> • <code>Styled Components</code>
 
 #### 🔵 Back-end  
@@ -51,6 +51,7 @@ Atualmente, busco oportunidades para evoluir profissionalmente, colaborando em p
 </div>
 
 ---
+
 
 
 
