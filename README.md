@@ -1,48 +1,57 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000080&height=200&section=header&text=Pamella%20Binotto&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">✨ Pamella Binotto ✨</h1>
 
-
-## 👩‍💻 Sobre mim
-Sou desenvolvedora **FullStack** apaixonada por tecnologia e sempre explorando novos desafios. Atualmente estou aprimorando meus conhecimentos de back-end e estudando **automações com N8N** para ampliar minhas habilidades em integrações e fluxos de trabalho automatizados. 
-
+<h3 align="center">Desenvolvedora Full Stack Jr. | JavaScript | TypeScript | React | Node.js | Prisma | Docker | PostgreSQL | Automação</h3>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,postgresql,prisma,jest,git,github,vscode" />
-</p>
-</p>
+### 🩵 Sobre mim  
+Sou uma desenvolvedora **Full Stack Jr.** apaixonada por transformar ideias em soluções funcionais e intuitivas.  
+Atuo com **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, Docker, Prisma** e **PostgreSQL**, além de **testes automatizados com Jest**.  
+Tenho uma visão de negócio sólida, vinda da minha experiência como empreendedora e gestora — o que me ajuda a unir **estratégia, tecnologia e resultado real**.  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/N8N-Automation-1E90FF?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+Atualmente, busco oportunidades para evoluir profissionalmente, colaborando em projetos que envolvam **inovação, boas práticas e impacto positivo**.
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamella-binotto&show_icons=true&theme=blueberry&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamella-binotto&theme=blueberry&hide_border=true" height="150" />
-</p>
+### 💻 Stack Técnica  
+
+<div align="center">
+
+#### 🩵 Front-end  
+<code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>React</code> • <code>Redux</code> • <code>Styled Components</code>
+
+#### 🔵 Back-end  
+<code>Node.js</code> • <code>Express</code> • <code>Prisma</code> • <code>Docker</code> • <code>PostgreSQL</code> • <code>Jest</code>
+
+#### 🧠 Dados  
+<code>SQL</code> • <code>PostgreSQL</code> • <code>Prisma ORM</code>
+
+#### ⚙️ Automação  
+<code>N8N</code> • <code>APIs REST</code> • <code>Integrações</code>
+
+</div>
 
 ---
 
-## 🌐 Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/pamellabinotto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pamellabinotto@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-000080?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📬 Contato  
+<div align="center">
+  
+💼 [LinkedIn](https://www.linkedin.com/in/pamellabinotto)  
+🐙 [GitHub](https://github.com/pamella-binotto)  
+📧 **pamellabinotto@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+💙 _"Desenvolver é sobre criar experiências que simplificam vidas."_  
+
+</div>
+
+---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000080&height=100&section=footer" />
-</p>
 
 
