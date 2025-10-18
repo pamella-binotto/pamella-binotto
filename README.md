@@ -46,11 +46,12 @@ Atualmente, busco oportunidades para evoluir profissionalmente, colaborando em p
 
 <div align="center">
 
-💙 _"Desenvolver é sobre criar experiências que simplificam vidas."_  
+📱De celulares a sistemas: minha paixão é fazer a tecnologia funcionar para as pessoas.
 
 </div>
 
 ---
+
 
 
 
