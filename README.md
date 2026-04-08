@@ -8,7 +8,7 @@
 
 Desenvolvedora Full Stack Júnior com experiência na construção de aplicações web e APIs, atuando desde a interface até a lógica de negócio e persistência de dados.
 
-Minha trajetória anterior como empreendedora me trouxe uma visão prática sobre processos, eficiência operacional e resolução de problemas reais — perspectiva que aplico hoje no desenvolvimento de software para criar soluções funcionais, organizadas e orientadas a resultado.
+Minha trajetória anterior como empreendedora me trouxe uma visão prática sobre processos, eficiência operacional e resolução de problemas reais, perspectiva que aplico hoje no desenvolvimento de software para criar soluções funcionais, organizadas e orientadas a resultado.
 
 Atualmente concentro minha evolução técnica no ecossistema **Java/Spring Boot**, enquanto mantenho atuação full stack com experiência em **React, Node.js e PostgreSQL**.
 
@@ -55,6 +55,6 @@ Aplicação full stack para gerenciamento de produtos e controle de estoque.
 
 ## 📫 Contato
 
-📧 **[pamellabinotto@gmail.com](mailto:pamellabinotto@gmail.com)**
+📧 **[Email](mailto:pamellabinotto@gmail.com)**
 💼 [Linkedin](https://linkedin.com/in/pamellabinotto)
 🐙 [Github](https://github.com/pamella-binotto)
