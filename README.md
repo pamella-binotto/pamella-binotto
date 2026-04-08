@@ -1,59 +1,56 @@
-<h1 align="center">✨ Pamella Binotto ✨</h1>
+# Pamella Binotto
 
-<h3 align="center">Desenvolvedora Full Stack Jr. | JavaScript | TypeScript | React | Node.js | Prisma | Docker | PostgreSQL | Automação</h3>
-
----
-
-### Sobre mim  
-Sou uma desenvolvedora **Full Stack Jr.** apaixonada por transformar ideias em soluções funcionais e intuitivas.  
-Atuo com **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, Docker, Prisma** e **PostgreSQL**, além de **testes automatizados com Jest**.  
-Tenho uma visão de negócio sólida, vinda da minha experiência como empreendedora e gestora — o que me ajuda a unir **estratégia, tecnologia e resultado real**.  
-
-Atualmente, busco oportunidades para evoluir profissionalmente, colaborando em projetos que envolvam **inovação, boas práticas e impacto positivo**.
+💻 **Desenvolvedora Full Stack Júnior | Java, Spring Boot, React, JavaScript**
 
 ---
 
-### 💻 Stack Técnica  
+## 🚀 Sobre mim
 
-<div align="center">
+Desenvolvedora Full Stack Júnior com experiência na construção de aplicações web e APIs, atuando desde a interface até a lógica de negócio e persistência de dados.
 
-#### 🖥️ Front-end  
-<code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>React</code> • <code>Redux</code> • <code>Styled Components</code>
+Minha trajetória anterior como empreendedora me trouxe uma visão prática sobre processos, eficiência operacional e resolução de problemas reais — perspectiva que aplico hoje no desenvolvimento de software para criar soluções funcionais, organizadas e orientadas a resultado.
 
-#### 🔵 Back-end  
-<code>Node.js</code> • <code>Express</code> • <code>Prisma</code> • <code>Docker</code> • <code>PostgreSQL</code> • <code>Jest</code>
-
-#### 🧠 Dados  
-<code>SQL</code> • <code>PostgreSQL</code> • <code>Prisma ORM</code>
-
-#### ⚙️ Automação  
-<code>N8N</code> • <code>APIs REST</code> • <code>Integrações</code>
-
-</div>
+Atualmente concentro minha evolução técnica no ecossistema **Java/Spring Boot**, enquanto mantenho atuação full stack com experiência em **React, Node.js e PostgreSQL**.
 
 ---
 
-### 📬 Contato  
-<div align="center">
-  
-💼 [LinkedIn](https://www.linkedin.com/in/pamellabinotto)  
-🐙 [GitHub](https://github.com/pamella-binotto)  
-📧 **pamellabinotto@gmail.com**
+## 🛠️ Tecnologias
 
-</div>
-
----
-
-<div align="center">
-
-📱De celulares a sistemas: minha paixão é fazer a tecnologia funcionar para as pessoas.
-
-</div>
+**Back-end:** Java • Spring Boot • Node.js • Express
+**Front-end:** React • JavaScript • TypeScript • HTML • CSS
+**Banco de Dados:** PostgreSQL • SQL
+**Testes:** Jest
+**Outros:** Git • Docker • Prisma • APIs REST 
 
 ---
 
+## 📦 Projeto em destaque
+
+### Sistema de Controle de Estoque
+
+Aplicação full stack para gerenciamento de produtos e controle de estoque.
+
+* API REST para operações de CRUD
+* Integração com banco de dados PostgreSQL
+* Interface administrativa integrada ao back-end
+* Estrutura organizada em camadas e boas práticas de desenvolvimento
+
+🔗 **Ver projeto:**
+[Frontend](https://github.com/pamella-binotto/Stock-Control-Frontend) • [Backend](https://github.com/pamella-binotto/Stock-Control)
 
 
+---
 
+## 📁 Outros projetos
 
+* Pokédex com React (consumo de API, filtros e tema dinâmico)
+* Testes automatizados com Jest
+* Integrações e automações com APIs REST / N8N
 
+---
+
+## 📫 Contato
+
+📧 **[pamellabinotto@gmail.com](mailto:pamellabinotto@gmail.com)**
+💼 **https://linkedin.com/in/pamellabinotto**
+🐙 **https://github.com/pamella-binotto**
