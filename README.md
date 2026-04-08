@@ -17,9 +17,13 @@ Atualmente concentro minha evolução técnica no ecossistema **Java/Spring Boot
 ## 🛠️ Tecnologias
 
 **Back-end:** Java • Spring Boot • Node.js • Express
+
 **Front-end:** React • JavaScript • TypeScript • HTML • CSS
+
 **Banco de Dados:** PostgreSQL • SQL
+
 **Testes:** Jest
+
 **Outros:** Git • Docker • Prisma • APIs REST 
 
 ---
@@ -52,5 +56,5 @@ Aplicação full stack para gerenciamento de produtos e controle de estoque.
 ## 📫 Contato
 
 📧 **[pamellabinotto@gmail.com](mailto:pamellabinotto@gmail.com)**
-💼 **https://linkedin.com/in/pamellabinotto**
-🐙 **https://github.com/pamella-binotto**
+💼 [Linkedin](https://linkedin.com/in/pamellabinotto)
+🐙 [Github](https://github.com/pamella-binotto)
