@@ -1,14 +1,15 @@
-# 👋 Olá! Eu sou a Pamella Binotto
+# Pamella Binotto
 
-💻 **Desenvolvedora Full Stack Júnior** apaixonada por criar aplicações escaláveis, APIs robustas e interfaces intuitivas.
+### Desenvolvedora Full Stack Júnior
 
-Atualmente concentro minha evolução técnica no ecossistema **Java + Spring Boot**, mantendo atuação Full Stack com **React**, **Node.js** e **PostgreSQL**.
+
+Foco técnico no ecossistema **Java + Spring Boot**, com atuação Full Stack em **React** e **PostgreSQL**. Antes da programação, construí 5 anos de experiência à frente do meu próprio negócio — hoje uso essa vivência como diferencial na forma como analiso problemas e entrego software.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Desenvolvedora Full Stack
+- 💼 Desenvolvedora Full Stack Java Júnior
 - ☕ Foco em Java, Spring Boot e Arquitetura de APIs
 - ⚛️ Experiência com React e JavaScript
 - 🐘 PostgreSQL
@@ -23,43 +24,23 @@ Atualmente concentro minha evolução técnica no ecossistema **Java + Spring Bo
 
 ## Back-end
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ## Front-end
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ## Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
----
-
 ## Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ## Testes
 
-- JUnit
-- Mockito
-- Jest
-- Vitest
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-c5d94b?style=for-the-badge) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
@@ -67,7 +48,7 @@ Atualmente concentro minha evolução técnica no ecossistema **Java + Spring Bo
 
 ## 🌦️ Zephyr API
 
-Plataforma de monitoramento climático desenvolvida em Java.
+API de monitoramento climático construída em Java, com autenticação própria e sistema de alertas de vento e chuva a partir de dados da OpenWeather — incluindo geração de resumos contextuais em português para o usuário final.
 
 ### Tecnologias
 
@@ -84,10 +65,11 @@ Plataforma de monitoramento climático desenvolvida em Java.
 
 - ✅ Autenticação JWT
 - ✅ Integração com OpenWeather API
+- ✅ Sistema de alertas de vento e chuva com resumos em português
 - ✅ Mensageria RabbitMQ
-- ✅ Arquitetura em Camadas
+- ✅ Arquitetura em camadas
 - ✅ DTO Pattern
-- ✅ Tratamento Global de Exceções
+- ✅ Tratamento global de exceções
 - ✅ Documentação Swagger
 - ✅ Testes automatizados
 
@@ -97,7 +79,7 @@ Plataforma de monitoramento climático desenvolvida em Java.
 
 ## 📦 Stock Control
 
-Sistema Full Stack para gerenciamento de estoque.
+Sistema Full Stack para gerenciamento de estoque, com backend e frontend implantados em produção.
 
 ### Stack
 
@@ -112,29 +94,18 @@ Sistema Full Stack para gerenciamento de estoque.
 - API REST
 - Front-end integrado
 - Deploy em produção
-- Arquitetura em Camadas
+- Arquitetura em camadas
 
-Frontend
-
-https://github.com/pamella-binotto/Stock-Control-Frontend
-
-Backend
-
-https://github.com/pamella-binotto/Stock-Control
+**Frontend:** https://github.com/pamella-binotto/Stock-Control-Frontend
+**Backend:** https://github.com/pamella-binotto/Stock-Control
 
 ---
 
 ## ⚡ Pokédex React
 
-Projeto desenvolvido em React consumindo a PokéAPI.
+Projeto de estudo em React consumindo a PokéAPI.
 
-Recursos
-
-- Busca
-- Filtros
-- Dark Mode
-- Responsividade
-- Testes com Jest
+**Recursos:** busca, filtros, dark mode, responsividade, testes com Jest
 
 ---
 
@@ -142,20 +113,18 @@ Recursos
 
 Utilizo Inteligência Artificial como ferramenta de engenharia para acelerar o ciclo de desenvolvimento.
 
-Ferramentas utilizadas:
-
+**Ferramentas utilizadas:**
 - Claude Code
 - ChatGPT
 - Gemini
 
-Aplicações:
-
+**Aplicações:**
 - Arquitetura de software
 - Refatoração de código
 - Geração de testes
 - Documentação
 - Debugging
-- Code Review
+- Code review
 
 ---
 
@@ -174,8 +143,8 @@ Aplicações:
 
 # 📫 Contato
 
-📧 pamellabinotto@gmail.com
+📧 [Email](pamellabinotto@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/pamellabinotto)
 
-💼 https://linkedin.com/in/pamellabinotto
 
-🐙 https://github.com/pamella-binotto
+💬 Aberta a conversas sobre oportunidades como Desenvolvedora Júnior
