@@ -159,11 +159,21 @@ Aplicações:
 
 ---
 
-# 📊 Estatísticas
+## 📊 GitHub Stats
 
-![Pamella GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamella-binotto&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pamella-binotto&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pamella-binotto&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamella-binotto&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pamella-binotto&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
