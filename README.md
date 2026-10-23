@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=120&section=header)
+![Banner](https://raw.githubusercontent.com/pamella-binotto/pamella-binotto/main/assets/banner.png)
 
 <div align="center">
 
@@ -61,5 +61,3 @@ Aplicação Full Stack para gerenciamento de produtos, com API em Java e Spring 
 [![Email](https://img.shields.io/badge/-Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:pamellabinotto@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamellabinotto)
 
 Aberta a conversas sobre estágio e vagas júnior.
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer)
