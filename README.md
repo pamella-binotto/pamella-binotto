@@ -1,10 +1,10 @@
-![Banner](https://raw.githubusercontent.com/pamella-binotto/pamella-binotto/main/assets/banner.png)
+<img src="https://raw.githubusercontent.com/pamella-binotto/pamella-binotto/main/assets/banner.png" alt="Banner" width="100%">
 
 <div align="center">
 
 # Pamella Binotto
 
-**Desenvolvedora Full Stack Java**
+**Desenvolvedora Full Stack Java**<br>
 Spring Boot · React · JavaScript · PostgreSQL
 
 APIs REST · Aplicações Full Stack · Testes automatizados
